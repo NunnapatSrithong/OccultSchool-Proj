@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{03947482-F340-ABD1-F2E2-005C567113F1}</ProjectGuid>
+    <ProjectGuid>{6C614C6E-0108-8EA8-5E82-AA5F0310624C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,10 +56,10 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Player2.cs" />
     <Compile Include="Assets/Scripts/LevelChanger.cs" />
     <Compile Include="Assets/Scripts/Follow_Player.cs" />
     <Compile Include="Assets/Scripts/Player.cs" />
-    <Compile Include="Assets/Scripts/Player2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
