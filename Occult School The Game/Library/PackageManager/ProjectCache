@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637889931170874600
-    m_Hash: 3054215164
+      ticks: 637890514020237492
+    m_Hash: 864882328
   m_LockFileStatus:
     m_FilePath: D:/Matus Yaowvasrisuwan Unity/OccultSchool-Proj/Occult School The
       Game/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637889931513789436
-    m_Hash: 1475374690
+      ticks: 637890514020347240
+    m_Hash: 3950231624
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
